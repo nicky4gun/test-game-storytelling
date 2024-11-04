@@ -5,7 +5,19 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Nicklas.unity
+    guid: c8129704fe8e4b34190c21d15a18397b
+  - enabled: 1
+    path: Assets/Scenes/Mark.unity
+    guid: 642721415eacfb44597a7a0cd7a16ce9
+  - enabled: 1
+    path: Assets/Scenes/Bech.unity
+    guid: 86538ea2bd5f4dc4c90412fec44f0a15
+  - enabled: 1
+    path: Assets/Scenes/Crocs Fine Scene.unity
+    guid: af367dcafa00440e39b8b147532e84c9
   m_configObjects: {}
